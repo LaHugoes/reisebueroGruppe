@@ -1,0 +1,32 @@
+.App {
+    text-align: left;
+    height: 1900px;
+}
+
+.App-header {
+    color: black;
+    margin: 10px auto 20px;
+    display: flex;
+    height: 55px;
+    padding: 0 24px;
+    position: relative;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+.Item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.react-tabs [role="tablist"] {
+    border: none;
+}
+
+.react-tabs [role="tab"][aria-selected="true"] {
+    border: none;
+}
+/*Laurent*/

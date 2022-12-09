@@ -1,0 +1,8 @@
+.ItemPage-artikel {
+    margin: 0;
+    padding: 0;
+}
+.ItemPage-artikel li {
+    list-style: none;
+    margin-bottom: 20px;
+}
